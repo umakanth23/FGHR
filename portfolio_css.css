@@ -1,0 +1,35 @@
+body{
+background-color: rgb(227, 238, 162);
+font: 100px;
+
+}
+img{
+    border-radius: 20px;
+   
+}
+.profile-img{
+    display: block;
+    margin:10% 30% 10% 20%;
+    text-align: center;
+    
+
+}
+.skills{
+    
+    font-size: 15px;
+    color: brown;
+}
+.links
+{
+    text-align: center;
+    border: 2px solid chocolate;
+    width: 300px;
+    height: 100px;
+    border: 20px;
+    margin:auto auto 20px 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 7px;
+    padding-left:7px ;
+    
+}
